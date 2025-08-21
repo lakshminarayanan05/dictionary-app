@@ -1,4 +1,4 @@
-## 📖 Dictionary App
+# 📖 Dictionary App
 
 A simple and responsive **Dictionary Web App** built using **HTML, CSS, and JavaScript**.  
 It fetches word meanings, part of speech, phonetics, and audio pronunciation from the [Free Dictionary API](https://dictionaryapi.dev/).
